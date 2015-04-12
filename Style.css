@@ -1,0 +1,76 @@
+table {
+	border: 1px solid #000000;
+
+}
+
+thead {
+	border: 1px solid #000000;
+}
+
+tbody {
+	border: 1px solid #000000;
+}
+
+tbody tr td:first-child {
+	font-style: italic;
+}
+
+tbody tr td:nth-child(2) {
+	color: red;
+}
+
+tbody tr td:nth-child(4) {
+	color: blue;
+}
+
+tbody tr:nth-child(2) {
+	background-color: aquamarine;
+}
+tbody tr:nth-child(4) {
+	background-color: aquamarine;
+}
+
+tbody tr:nth-child(1) {
+	background-color: lime;
+}
+
+tbody tr:nth-child(3) {
+	background-color: lime;
+}
+
+tbody tr:nth-child(5) {
+	background-color: lime;
+}
+
+th {
+	border: 1px solid #000000;
+	width: 100px;
+}
+
+td {
+	border: 1px solid #000000;
+	width: 100px;
+}
+
+dl:hover {
+	background-color: purple;
+}
+
+dd:hover {
+	background-color: white;
+}
+
+#outer-content
+{	background-color:pink; margin-right:auto; width: 75%;	
+}
+
+#inner-content
+{	background-color:blue; margin-right:auto; margin-left:auto; width: 75%;	
+}
+
+img {
+	float:left;
+}
+
+
+
